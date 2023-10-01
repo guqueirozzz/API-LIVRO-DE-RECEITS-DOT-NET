@@ -30,3 +30,12 @@ C:\Estudos\C#\MeuLivroDeReceitas\MeuLivroDeReceitas.Api\obj\Debug\net6.0\refint\
 C:\Estudos\C#\MeuLivroDeReceitas\MeuLivroDeReceitas.Api\obj\Debug\net6.0\MeuLivroDeReceitas.Api.pdb
 C:\Estudos\C#\MeuLivroDeReceitas\MeuLivroDeReceitas.Api\obj\Debug\net6.0\MeuLivroDeReceitas.Api.genruntimeconfig.cache
 C:\Estudos\C#\MeuLivroDeReceitas\MeuLivroDeReceitas.Api\obj\Debug\net6.0\ref\MeuLivroDeReceitas.Api.dll
+C:\Estudos\C#\MeuLivroDeReceitas\MeuLivroDeReceitas.Api\bin\Debug\net6.0\Dapper.dll
+C:\Estudos\C#\MeuLivroDeReceitas\MeuLivroDeReceitas.Api\bin\Debug\net6.0\MySqlConnector.dll
+C:\Estudos\C#\MeuLivroDeReceitas\MeuLivroDeReceitas.Api\bin\Debug\net6.0\MeuLivroDeReceitas.Domain.dll
+C:\Estudos\C#\MeuLivroDeReceitas\MeuLivroDeReceitas.Api\bin\Debug\net6.0\MeuLivroDeReceitas.Infrastructure.dll
+C:\Estudos\C#\MeuLivroDeReceitas\MeuLivroDeReceitas.Api\bin\Debug\net6.0\MeuLivroDeReceitas.Infrastructure.pdb
+C:\Estudos\C#\MeuLivroDeReceitas\MeuLivroDeReceitas.Api\bin\Debug\net6.0\MeuLivroDeReceitas.Domain.pdb
+C:\Estudos\C#\MeuLivroDeReceitas\MeuLivroDeReceitas.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Estudos\C#\MeuLivroDeReceitas\MeuLivroDeReceitas.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Estudos\C#\MeuLivroDeReceitas\MeuLivroDeReceitas.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll

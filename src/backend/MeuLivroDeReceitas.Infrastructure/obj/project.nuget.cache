@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "E8eQ9fCLITMuF9gAgZWbktx3rYu8sc+x/jSvbBKmfIVA7H1wLjP5Ha2rRnEmGGyuxpplVLyaeEARONkeYYllfg==",
+  "dgSpecHash": "d8If3xsJRm585nDTTejBAMVcYcx9w9IWs1dPNeBEmjqDaI5w/oVLPcaQLAnWr1JrV5sx2hn7eHilFoaRI1XllA==",
   "success": true,
   "projectFilePath": "C:\\Estudos\\C#\\MeuLivroDeReceitas\\src\\backend\\MeuLivroDeReceitas.Infrastructure\\MeuLivroDeReceitas.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\mysqlconnector\\2.2.7\\mysqlconnector.2.2.7.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

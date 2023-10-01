@@ -1,0 +1,12 @@
+C:\Estudos\C#\MeuLivroDeReceitas\src\backend\MeuLivroDeReceitas.Domain\bin\Debug\net6.0\MeuLivroDeReceitas.Domain.deps.json
+C:\Estudos\C#\MeuLivroDeReceitas\src\backend\MeuLivroDeReceitas.Domain\bin\Debug\net6.0\MeuLivroDeReceitas.Domain.dll
+C:\Estudos\C#\MeuLivroDeReceitas\src\backend\MeuLivroDeReceitas.Domain\bin\Debug\net6.0\MeuLivroDeReceitas.Domain.pdb
+C:\Estudos\C#\MeuLivroDeReceitas\src\backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\MeuLivroDeReceitas.Domain.csproj.AssemblyReference.cache
+C:\Estudos\C#\MeuLivroDeReceitas\src\backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\MeuLivroDeReceitas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\C#\MeuLivroDeReceitas\src\backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\MeuLivroDeReceitas.Domain.AssemblyInfoInputs.cache
+C:\Estudos\C#\MeuLivroDeReceitas\src\backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\MeuLivroDeReceitas.Domain.AssemblyInfo.cs
+C:\Estudos\C#\MeuLivroDeReceitas\src\backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\MeuLivroDeReceitas.Domain.csproj.CoreCompileInputs.cache
+C:\Estudos\C#\MeuLivroDeReceitas\src\backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\MeuLivroDeReceitas.Domain.dll
+C:\Estudos\C#\MeuLivroDeReceitas\src\backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\refint\MeuLivroDeReceitas.Domain.dll
+C:\Estudos\C#\MeuLivroDeReceitas\src\backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\MeuLivroDeReceitas.Domain.pdb
+C:\Estudos\C#\MeuLivroDeReceitas\src\backend\MeuLivroDeReceitas.Domain\obj\Debug\net6.0\ref\MeuLivroDeReceitas.Domain.dll

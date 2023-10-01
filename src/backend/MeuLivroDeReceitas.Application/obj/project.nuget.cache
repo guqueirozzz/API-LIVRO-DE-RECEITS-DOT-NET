@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4Cko1rr0j1aIoXfIZcZ8/3ABb9OOQElAqyMy2TiY83V9li1PzKdxEkjFIbc/+5MwCFuMrhpSmnNOCzVJKHDXWw==",
+  "dgSpecHash": "IzUgowZ/HwQgjsOWgvXDV1We79yE/rpQpN61c4nUYYUunlMN3rakXsTZkcrNA4pTGIpJ5p2ZU/nRo3iP74lVCA==",
   "success": true,
   "projectFilePath": "C:\\Estudos\\C#\\MeuLivroDeReceitas\\src\\backend\\MeuLivroDeReceitas.Application\\MeuLivroDeReceitas.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
